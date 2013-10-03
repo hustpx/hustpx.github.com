@@ -6,7 +6,7 @@ author: 朱泌丞
 comments: true
 categories: Others
 ---
-原文出处： Zery zhang 的博客
+原文出处： [Zery zhang 的博客](http://www.cnblogs.com/zery/p/3343893.html)
 
 本文只代表个人见解，不代表任立场，如果您认为我的想法是错的那很正常，因为这是我的想法，如果您觉得您的想法和我一样，那我们就是传说中的 “激友”（对生活冲满激情的朋友）。进入正题
 
