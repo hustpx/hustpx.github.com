@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Video | PX's Blog]]></title>
+  <link href="http://hustpx.github.io/blog/categories/video/atom.xml" rel="self"/>
+  <link href="http://hustpx.github.io/"/>
+  <updated>2013-10-04T14:24:30+08:00</updated>
+  <id>http://hustpx.github.io/</id>
+  <author>
+    <name><![CDATA[朱泌丞]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[第一个用iMovie的视频]]></title>
+    <link href="http://hustpx.github.io/blog/2013/10/04/di-%5B%3F%5D-ge-yong-imoviede-shi-pin/"/>
+    <updated>2013-10-04T14:05:00+08:00</updated>
+    <id>http://hustpx.github.io/blog/2013/10/04/di-[?]-ge-yong-imoviede-shi-pin</id>
+    <content type="html"><![CDATA[<p><video width='498' height='510' preload='none' controls poster=''><source src='http://player.youku.com/player.php/sid/XNDg4NTc1Njc2/v.swf">http://player.youku.com/player.php/sid/XNDg4NTc1Njc2/v.swf</a>' ></video></p>
+]]></content>
+  </entry>
+  
+</feed>
