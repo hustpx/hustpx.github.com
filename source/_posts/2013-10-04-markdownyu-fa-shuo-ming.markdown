@@ -21,7 +21,7 @@ Document. Please refer to [Markdown: Syntax][eng-doc].
 
 Markdown: Syntax
 ================
-
+<!-- more -->
 *   [概述](#overview)
     *   [哲學](#philosophy)
     *   [行內 HTML](#html)
