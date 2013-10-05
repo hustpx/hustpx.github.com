@@ -9,4 +9,6 @@ categories: video
 
 为班级做的团日视频，花了半天的时间，其实就是试了一下iMovie的效果
 
-{% video http://player.youku.com/player.php/sid/XNDg4NTc1Njc2/v.swf 498 510 http://g2.ykimg.com/0100641F4650CBFB257AF0071B4C0E22870020-AF43-B3D0-45DC-2136295142D3 %}	
+<div class="video-container">
+	<embed src="http://player.youku.com/player.php/sid/XNDg4NTc1Njc2/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>      
+</div>
