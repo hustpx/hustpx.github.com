@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: iOS | PX's Blog]]></title>
+  <link href="http://hustpx.github.io/blog/categories/ios/atom.xml" rel="self"/>
+  <link href="http://hustpx.github.io/"/>
+  <updated>2013-10-05T16:32:49+08:00</updated>
+  <id>http://hustpx.github.io/</id>
+  <author>
+    <name><![CDATA[朱泌丞]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[iOS备忘录]]></title>
+    <link href="http://hustpx.github.io/blog/2013/10/05/ibei-wang-lu/"/>
+    <updated>2013-10-05T16:28:00+08:00</updated>
+    <id>http://hustpx.github.io/blog/2013/10/05/ibei-wang-lu</id>
+    <content type="html"><![CDATA[<script src="https://gist.github.com/zhubicheng/436e8d537e3a2b184ccb.js"></script>
+
+
+<!--more-->
+
+
+<script src="https://gist.github.com/zhubicheng/6763155.js"></script>
+
+]]></content>
+  </entry>
+  
+</feed>
