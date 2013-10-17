@@ -4,7 +4,7 @@
   <title><![CDATA[PX's Blog]]></title>
   <link href="http://hustpx.github.io/atom.xml" rel="self"/>
   <link href="http://hustpx.github.io/"/>
-  <updated>2013-10-13T01:26:57+08:00</updated>
+  <updated>2013-10-17T13:31:16+08:00</updated>
   <id>http://hustpx.github.io/</id>
   <author>
     <name><![CDATA[朱泌丞]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[【冰岩作坊iOS组】新人培训第一期：iOS程序的生命周期以及VIewController的生命周期]]></title>
+    <link href="http://hustpx.github.io/blog/2013/10/17/bing-yan/"/>
+    <updated>2013-10-17T13:05:00+08:00</updated>
+    <id>http://hustpx.github.io/blog/2013/10/17/bing-yan</id>
+    <content type="html"><![CDATA[<p><strong>(冰岩作坊iOS组的第一次新人培训资料，图片资料来自于互联网。)</strong></p>
+
+<p>1.理解一个application从产生到消亡的过程，中间可以经历的状态</p>
+
+<p><img src="http://pxblog.u.qiniudn.com/iOS%E7%BB%84%E6%96%B0%E4%BA%BA%E5%9F%B9%E8%AE%AD%E7%AC%AC%E4%B8%80%E5%BC%B9_1.png" alt="" /></p>
+
+<!-- more -->
+
+
+<h2><img src="http://pxblog.u.qiniudn.com/OS%E7%BB%84%E6%96%B0%E4%BA%BA%E5%9F%B9%E8%AE%AD%E7%AC%AC%E4%B8%80%E5%BC%B9_2.jpg" alt="" /></h2>
+
+<h2>2.viewController的生命周期</h2>
+
+<p><img src="http://pxblog.u.qiniudn.com/OS%E7%BB%84%E6%96%B0%E4%BA%BA%E5%9F%B9%E8%AE%AD%E7%AC%AC%E4%B8%80%E5%BC%B9_3.png" alt="" />
+<img src="http://pxblog.u.qiniudn.com/OS%E7%BB%84%E6%96%B0%E4%BA%BA%E5%9F%B9%E8%AE%AD%E7%AC%AC%E4%B8%80%E5%BC%B9_4.png" alt="" /></p>
+
+<h2><img src="http://pxblog.u.qiniudn.com/OS%E7%BB%84%E6%96%B0%E4%BA%BA%E5%9F%B9%E8%AE%AD%E7%AC%AC%E4%B8%80%E5%BC%B9_5.jpg" alt="" /></h2>
+
+<h2>3.uikit框架的继承图</h2>
+
+<p><img src="http://pxblog.u.qiniudn.com/OS%E7%BB%84%E6%96%B0%E4%BA%BA%E5%9F%B9%E8%AE%AD%E7%AC%AC%E4%B8%80%E5%BC%B9_6.jpeg" alt="" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[iOS备忘录]]></title>
